@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\CanRefresh-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\android_github\CanRefresh-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_810773de4f45778e7436e539c512202c4c57b8cb.jar" />
+    </item>
+    <item
+        jar="D:\android_github\CanRefresh-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\android_github\CanRefresh-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_3530fe558342cf8b2bd309f636a6f0bae5cc07b5.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\android_github\CanRefresh-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_c2a834644c1c672d9fdfa247500964fd5050cc2d.jar" />
+    </item>
+    <item
+        jar="D:\android_github\CanRefresh-master\app\build\intermediates\exploded-aar\CanRefresh-master\canrefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="28158e2254529e57adafb1232a32d9205f72682c">
+        <dex dex="D:\android_github\CanRefresh-master\app\build\intermediates\pre-dexed\debug\CanRefresh-master-canrefresh-unspecified_2e1c99c64653bc6038c0f697da831ee1e495bfbc.jar" />
+    </item>
+    <item
+        jar="D:\android_github\CanRefresh-master\app\build\intermediates\exploded-aar\com.canyinghao\can-adapter\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57e37b2e0fc7eb935f2630b0c597bffc3bc2c4a4">
+        <dex dex="D:\android_github\CanRefresh-master\app\build\intermediates\pre-dexed\debug\com.canyinghao-can-adapter-1.0.1_6a820a41dedf78ffeddc4f717a3d5bab2896d469.jar" />
+    </item>
+    <item
+        jar="D:\android_github\CanRefresh-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\android_github\CanRefresh-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.0.1_4015342d1f6fc04268f49e54367280415ba875e6.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\android_github\CanRefresh-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_3caf9ea0c11adc719a2bd5d438f6db5049894c41.jar" />
+    </item>
+    <item
+        jar="D:\android_github\CanRefresh-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\android_github\CanRefresh-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_9a9ec46e10db29ef75c03eb6d37cfe2b42345840.jar" />
+    </item>
+    <item
+        jar="D:\android_github\CanRefresh-master\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\android_github\CanRefresh-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.0.1_35946117ae77992b7c90b2f85953cf2dbee594d5.jar" />
+    </item>
+
+</items>
